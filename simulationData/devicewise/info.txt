@@ -1,0 +1,1 @@
+data from http://help.devicewise.com/display/M2MOpen/BigQuery+Part+5+-+Accessing+our+public+datasets
