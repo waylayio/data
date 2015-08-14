@@ -5,7 +5,7 @@ To to create a new CSV file, make sure that the first row includes parameter nam
 
 Example below:
 
-| param1  | param2 | param2 |
+| count   | color  | active |
 |---------|--------|--------|
 | 1       | green  | true   |
 | 2       | red    | false  |
