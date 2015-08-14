@@ -7,8 +7,8 @@ Example below:
 
 | count   | color  | active |
 |---------|--------|--------|
-| 1       | green  | true   |
-| 2       | red    | false  |
+| 2       | green  | true   |
+| 8       | red    | false  |
 | 3       | orange | true   |
 
 One way to generate files is: https://www.mockaroo.com/
