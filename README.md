@@ -6,7 +6,9 @@ To to create a new CSV file, make sure that the first row includes parameter nam
 Example below:
 
 Temparature,Humidity
+
 21, 80
+
 22,78
 
 One way to generate files is: https://www.mockaroo.com/
